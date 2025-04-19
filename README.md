@@ -7,12 +7,5 @@
 <li>Customize text for the top and bottom sections of the meme.</li>
 <li>Generate and download memes in seconds.</li>
 <li><p>Share memes directly to social media platforms.</p>
-<h2 id="how-to-use-">How to Use:</h2>
-</li>
-<li><p>Visit the <a href="https://fav-meme.netlify.app/">Fav Meme Generator website</a>.</p>
-</li>
-<li>Select a meme template from the available options.</li>
-<li>Enter your desired text for the top and bottom sections of the meme.</li>
-<li>Click on the &quot;Save&quot; button to create your meme.</li>
-<li>Once generated, you can download the meme to your device or share it directly on social media platforms using the provided options.</li>
+
 </ul>
